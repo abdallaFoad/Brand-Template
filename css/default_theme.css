@@ -1,0 +1,38 @@
+.footer .box.media h1 {
+  color: #E41B17;
+}
+.navbar-inverse .navbar-brand span {
+  color: #65bd4f
+}
+.footer .box.important a {
+  color: #B9B9A4;
+}
+.footer .box.important li a::before {
+  color: #2196f3;
+}
+.option-box .color-box {
+  border: 3px solid #E41B17;
+}
+.dropdown-menu {
+  border-top: 3px solid #E41B17;
+}
+.btn-primary:hover {
+  border-color: #E41B17
+}
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.option-box .gear,
+.dropdown-menu>li>a:focus,
+.dropdown-menu>li>a:hover,
+.carousel-indicators .active,
+.btn-primary:hover,
+.go-top,
+.dropdown-menu .divider
+ {
+  background-color: #E41B17;
+}
+
+
+
+

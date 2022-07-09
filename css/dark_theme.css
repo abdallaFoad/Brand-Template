@@ -1,0 +1,34 @@
+.footer .box.media h1,
+.navbar-inverse .navbar-brand span,
+.footer .box.important a,
+.footer .box.important li a::before {
+  color: #54153B;
+}
+
+.option-box .color-box {
+  border: 3px solid #54153B;
+}
+.dropdown-menu {
+  border-top: 3px solid #54153B;
+}
+.btn-primary:hover {
+  border-color: #54153B
+}
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.option-box .gear,
+.dropdown-menu>li>a:focus,
+.dropdown-menu>li>a:hover,
+.carousel-indicators .active,
+.btn-primary:hover,
+.main-head,
+.about h1 .one,
+.go-top,
+.dropdown-menu .divider {
+  background-color: #54153B;
+}
+
+
+
+
